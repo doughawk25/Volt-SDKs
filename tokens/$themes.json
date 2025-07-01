@@ -117,9 +117,7 @@
     "id": "device-mobile",
     "name": "mobile",
     "group": "Device",
-    "selectedTokenSets": {
-      "Device/mobile": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "width": "8182dcb64f10335d85afc827cef2cfd3c30ef647",
@@ -133,9 +131,7 @@
     "id": "device-tablet",
     "name": "tablet",
     "group": "Device",
-    "selectedTokenSets": {
-      "Device/tablet": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "width": "8182dcb64f10335d85afc827cef2cfd3c30ef647",
