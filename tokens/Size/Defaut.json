@@ -1,0 +1,90 @@
+{
+  "spacing": {
+    "2": {
+      "value": "2",
+      "type": "number"
+    },
+    "4": {
+      "value": "4",
+      "type": "number"
+    },
+    "6": {
+      "value": "6",
+      "type": "number"
+    },
+    "8": {
+      "value": "8",
+      "type": "number"
+    },
+    "10": {
+      "value": "10",
+      "type": "number"
+    },
+    "12": {
+      "value": "12",
+      "type": "number"
+    },
+    "16": {
+      "value": "16",
+      "type": "number"
+    },
+    "24": {
+      "value": "24",
+      "type": "number"
+    },
+    "32": {
+      "value": "32",
+      "type": "number"
+    },
+    "00": {
+      "value": "0",
+      "type": "number"
+    }
+  },
+  "radius": {
+    "2": {
+      "value": "2",
+      "type": "number"
+    },
+    "4": {
+      "value": "4",
+      "type": "number"
+    },
+    "6": {
+      "value": "6",
+      "type": "number"
+    },
+    "8": {
+      "value": "8",
+      "type": "number"
+    },
+    "10": {
+      "value": "10",
+      "type": "number"
+    },
+    "12": {
+      "value": "12",
+      "type": "number"
+    },
+    "16": {
+      "value": "16",
+      "type": "number"
+    },
+    "24": {
+      "value": "24",
+      "type": "number"
+    },
+    "Round": {
+      "value": "999",
+      "type": "number"
+    },
+    "00": {
+      "value": "0",
+      "type": "number"
+    }
+  },
+  "Border": {
+    "value": "0.5",
+    "type": "number"
+  }
+}

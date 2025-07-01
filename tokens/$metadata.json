@@ -1,0 +1,11 @@
+{
+  "tokenSetOrder": [
+    "Modifier",
+    "Primative",
+    "Semantic/LT",
+    "Type/LT",
+    "Size/Defaut",
+    "Device/mobile",
+    "Device/tablet"
+  ]
+}

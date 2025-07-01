@@ -1,0 +1,58 @@
+{
+  "family": {
+    "Primary": {
+      "value": "Inter",
+      "type": "text"
+    }
+  },
+  "weight": {
+    "regular": {
+      "value": "440",
+      "type": "number"
+    },
+    "medium": {
+      "value": "500",
+      "type": "number"
+    },
+    "bold": {
+      "value": "570",
+      "type": "number"
+    }
+  },
+  "size": {
+    "heading": {
+      "lg": {
+        "value": "24",
+        "type": "number"
+      },
+      "md": {
+        "value": "20",
+        "type": "number"
+      },
+      "sm": {
+        "value": "18",
+        "type": "number"
+      }
+    },
+    "body": {
+      "lg": {
+        "value": "16",
+        "type": "number"
+      },
+      "md": {
+        "value": "14",
+        "type": "number"
+      },
+      "sm": {
+        "value": "12",
+        "type": "number"
+      }
+    },
+    "caption": {
+      "default": {
+        "value": "10",
+        "type": "number"
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "White": {
+    "value": "#ffffff",
+    "type": "color"
+  },
+  "Black": {
+    "value": "#00070e",
+    "type": "color"
+  },
+  "Neutral": {
+    "value": "#5e676e",
+    "type": "color"
+  },
+  "Red": {
+    "value": "#ef4444",
+    "type": "color"
+  },
+  "Yellow": {
+    "value": "#ffd646",
+    "type": "color"
+  },
+  "Green": {
+    "value": "#03c48d",
+    "type": "color"
+  },
+  "Primary": {
+    "value": "#005fff",
+    "type": "color"
+  }
+}

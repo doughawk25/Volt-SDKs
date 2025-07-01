@@ -1,0 +1,16 @@
+{
+  "width": {
+    "value": "768",
+    "type": "number"
+  },
+  "radius": {
+    "IOS": {
+      "value": "44",
+      "type": "number"
+    },
+    "Android": {
+      "value": "28",
+      "type": "number"
+    }
+  }
+}
